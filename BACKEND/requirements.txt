@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+opencv-python-headless
+python-dotenv
+pydantic-settings
+aiofiles
+imagehash
